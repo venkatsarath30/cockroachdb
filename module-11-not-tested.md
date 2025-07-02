@@ -1,7 +1,3 @@
-Here’s a **detailed breakdown** of **Module 11: CockroachDB Advanced Features & Use Cases** with **notes, code, and hands-on labs** for each topic.  
-
----
-
 # **Module 11: CockroachDB Advanced Features & Use Cases**  
 
 ## **1. Geo-Partitioning for Low Latency**  
@@ -237,7 +233,3 @@ In this module, you learned:
 ✅ How to **stream real-time data** using **Change Data Capture (CDC)**  
 ✅ How to **store and query JSON & vector embeddings**  
 ✅ How to deploy **Serverless CockroachDB**  
-
-This ensures **optimized performance, real-time insights, and easy scalability** for modern applications. 🚀  
-
-Would you like additional deep dives into any of these topics?
