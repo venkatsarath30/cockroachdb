@@ -1,5 +1,3 @@
-Here’s a comprehensive breakdown of **Module 10: CockroachDB Troubleshooting & Maintenance** with detailed notes, code, and hands-on labs.  
-
 ---
 
 # **Module 10: CockroachDB Troubleshooting & Maintenance**  
