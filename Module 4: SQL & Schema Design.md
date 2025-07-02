@@ -256,5 +256,4 @@ SHOW RANGES FROM TABLE sales;
 ✅ **Constraints (PK, FK, UNIQUE) enforce data integrity**  
 ✅ **Partitioning & sharding optimize performance for large datasets**  
 
-🚀 **Next: Module 5 - Query Optimization & Performance Tuning!**  
-Would you like deeper insights into cost-based optimization & query execution plans? 😊
+
