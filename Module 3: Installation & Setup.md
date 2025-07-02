@@ -219,5 +219,3 @@ cockroach sql --insecure -e "SHOW RANGES FROM TABLE testdb.users;"
 ✅ **Node management allows scaling up/down as needed.**  
 ✅ **Hands-on labs reinforce real-world CockroachDB deployment.**  
 
-🚀 **Next: Module 4 - Advanced Configuration & Performance Tuning!**  
-Would you like more automation with Terraform for cloud deployments? 😊
