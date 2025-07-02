@@ -165,5 +165,3 @@ cockroach sql --insecure -e "SHOW REGIONS FROM CLUSTER"
 3️⃣ **Decommission a node and verify if the cluster remains available**.  
 4️⃣ **Create a multi-region partitioned table and verify queries remain local**.  
 
-🚀 **Next: Advanced Query Execution & Performance Optimization**  
-Would you like more detailed troubleshooting steps or automation with Terraform? 😊
