@@ -202,6 +202,3 @@ cockroach sql --insecure -f setup.sql
 - **Terraform & Ansible**: Automate deployments on AWS/GCP.
 - **CockroachDB CLI & SQL**: Script database setup and backups.
 - **CI/CD Integration**: Automate schema changes with GitHub Actions & Liquibase.
-
-By implementing automation, you can efficiently manage and scale CockroachDB with minimal manual effort.
-
