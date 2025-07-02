@@ -134,6 +134,3 @@ SELECT * FROM testdb.users;
 - **Full backups** capture the entire database, while **incremental backups** store only changes.
 - **Restoration** ensures business continuity during failures.
 - **Disaster recovery strategies** include automation, monitoring, and multi-region storage.
-
-By following this guide, you can effectively implement backup and recovery strategies for your CockroachDB cluster.
-
