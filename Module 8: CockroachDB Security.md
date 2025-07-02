@@ -195,5 +195,3 @@ cat audit_logs/cockroach.log
 - **Encryption**: Enable at-rest and in-transit encryption.
 - **Audit Logging**: Track user activity and system events.
 
-By implementing these security measures, you can protect your CockroachDB cluster from unauthorized access and ensure compliance with security policies.
-
