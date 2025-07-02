@@ -207,5 +207,3 @@ cockroach sql --insecure -e "SELECT * FROM users;"
 ✅ **Multi-region deployments improve performance & reliability**  
 ✅ **Load balancing distributes queries efficiently**  
 
-🚀 **Next: Module 6 - Backup, Restore & Disaster Recovery!**  
-Would you like Terraform automation for cloud deployments? 😊
