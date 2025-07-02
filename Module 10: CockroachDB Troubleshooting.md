@@ -1,5 +1,3 @@
----
-
 # **Module 10: CockroachDB Troubleshooting & Maintenance**  
 
 ## **1. Debugging Node Failures**  
@@ -263,6 +261,3 @@ In this module, you learned:
 ✅ Common CockroachDB errors & resolutions  
 ✅ Best practices for regular maintenance  
 
-This ensures your CockroachDB cluster remains **highly available, optimized, and resilient** in production. 🚀  
-
-Would you like additional hands-on scenarios or troubleshooting exercises?
