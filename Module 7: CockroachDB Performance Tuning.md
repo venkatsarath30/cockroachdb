@@ -182,5 +182,3 @@ cockroach start --cache=50% --max-sql-memory=50%
 - **Monitoring Tools**: Use CockroachDB Web UI, logs, and `SHOW JOBS` to monitor activity.
 - **Performance Tuning**: Optimize memory, caching, and load balancing for scalability.
 
-By implementing these best practices, you can ensure optimal performance and scalability for your CockroachDB cluster.
-
